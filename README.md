@@ -77,12 +77,12 @@ cd StealthX
 
 Make launcher executable:
 
-chmod +x StealthX.sh
+chmod +x StealthX.py
 
 
 Run the toolkit:
 
-./StealthX.sh
+python3 StealthX.py
 
 
 Everything works offline — all dependencies included.
