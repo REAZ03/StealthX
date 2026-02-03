@@ -3,6 +3,15 @@
 StealthX is a self-contained cybersecurity toolkit built for analysing password strength and demonstrating real-world cracking techniques using offline tools like John the Ripper.
 Designed for learning, auditing, and understanding password security in a safe offline environment.
 
+# StealthX — Cinematic Cyber Toolkit
+
+<img width="1902" height="1004" alt="Screenshot From 2026-02-03 15-07-48" src="https://github.com/user-attachments/assets/51e32204-07e6-4cc8-a0ad-cc2ad3562c15" />
+
+                                                           [Home Screen]
+### Attack Simulation
+                                                         [Attack Simulation]
+<img width="1902" height="1018" alt="Screenshot From 2026-02-03 15-07-22" src="https://github.com/user-attachments/assets/a4868f08-3896-4f83-8355-9547163ad5a5" />
+
 🚀 Features
 🔍 Password Strength Analysis
 
@@ -63,20 +72,17 @@ Completely portable — no pip installation required.
 
 ▶️ How to Run StealthX
 
-Extract the ZIP:
-
-unzip StealthX_Project.zip
 cd StealthX
 
 
 Make launcher executable:
 
-chmod +x RUN.sh
+chmod +x StealthX.sh
 
 
 Run the toolkit:
 
-./RUN.sh
+./StealthX.sh
 
 
 Everything works offline — all dependencies included.
